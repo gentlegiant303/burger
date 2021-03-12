@@ -19,10 +19,9 @@
   "homepage": "https://github.com/gentlegiant303/burger#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.15.2",
+    "express": "^4.17.1",
     "express-handlebars": "^3.0.0",
     "method-override": "^2.3.10",
-    "mysql2": "^1.5.2"
-  },
-  "devDependencies": {}
+    "mysql2": "^2.2.5"
+  }
 }
